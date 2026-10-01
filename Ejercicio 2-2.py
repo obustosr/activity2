@@ -27,9 +27,9 @@ class Planeta:
     
         self.nombre = nombre
         self.cantidad_satelites = cantidad_satelites
-        self.masa = masa  # en kg
-        self.volumen = volumen  # en km^3
-        self.diametro = diametro  # en km
+        self.masa = masa
+        self.volumen = volumen 
+        self.diametro = diametro 
         self.distancia_media_sol = distancia_media_sol 
         self.tipo = tipo
         self.es_observable = es_observable
